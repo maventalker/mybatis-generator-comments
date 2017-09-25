@@ -6,7 +6,7 @@
 
 
 # 使用方法
-    查看：http://bakcom.iteye.com/blog/2325386
+    查看：[http://bakcom.iteye.com/blog/2325386](http://bakcom.iteye.com/blog/2325386)
 
 # 关注更多内容
 ![image](https://github.com/backkoms/simplemall/blob/develop/getqrcode.jpeg?raw=true)
